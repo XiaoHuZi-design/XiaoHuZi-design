@@ -52,6 +52,8 @@ Here are some ideas to get you started:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoHuZi-design&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoHuZi-design&layout=compact&theme=radical)
 
+### 🐍 贡献贪吃蛇 (GitHub Snake)
+![snake game](https://github.com/XiaoHuZi-design/XiaoHuZi-design/raw/output/github-contribution-grid-snake.svg)
 
 
 <!--
