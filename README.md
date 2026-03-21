@@ -1,4 +1,29 @@
 ## Hi there 👋
+# 👋 你好，我是 XiaoHuZi-design 
+
+### 🤖 正在研究：机器人技术 / 视觉 SLAM / 路径规划
+基于 **Qt** 开发的 `ImageProcLab` 正在持续更新中...
+
+---
+
+### 🛠️ 技术栈
+- **语言:** C++, Python, JavaScript
+- **框架:** Qt, ROS, OpenCV, YOLO
+- **工具:** Git, CMake, PowerShell
+
+---
+
+### 🚀 我的精选项目
+- [ImageProcLab](https://github.com/XiaoHuZi-design/ImageProcLab) - 功能强大的图像与视频处理实验室。
+- [YOLODetector](https://github.com/XiaoHuZi-design/YOLODetector) - Yolov5 / Yolov8 图像、视频、摄像头检测工具。
+
+---
+
+### 📊 我的 GitHub 统计
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoHuZi-design&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoHuZi-design&layout=compact&theme=radical)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=XiaoHuZi-design.XiaoHuZi-design)
+
 
 <!--
 **XiaoHuZi-design/XiaoHuZi-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
