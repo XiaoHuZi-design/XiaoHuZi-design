@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 ### 🚀 我的精选项目
 - 🌸[HTBLOG](https://github.com/XiaoHuZi-design/HTBLOG) - 二次元浪漫风格个人小网站
 - 🎨[claude-status-themes](https://github.com/XiaoHuZi-design/claude-status-themes) - Claude Code 定制可选的状态栏主题：仙侠古风 + 极客仪表盘 + 像素游戏
-- 🖥️[ImageProcLab](https://github.com/XiaoHuZi-design/ImageProcLab) - 适合教学使用的图像与视频处理实验室。
-- 🔍[YOLODetector](https://github.com/XiaoHuZi-design/YOLODetector) - Yolov5 / Yolov8 图像、视频、摄像头检测工具。
+- 🖥️[ImageProcLab](https://github.com/XiaoHuZi-design/ImageProcLab) - 适合教学使用的图像与视频处理实验室
+- 🔍[YOLODetector](https://github.com/XiaoHuZi-design/YOLODetector) - Yolov5 / Yolov8 图像、视频、摄像头检测工具
 
 ---
 
