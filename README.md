@@ -54,7 +54,7 @@
 # 👋 你好，我是 XiaoHuZi-design 
 
 ### 🤖 正在研究：机器人技术 / 视觉 SLAM / 路径规划 / 深度学习 / 图像处理
-基于 **Qt** 开发的 `ImageProcLab` 正在持续更新中...  ![Visitors](https://komarev.com/ghpvc/?username=XiaoHuZi-design&label=访客人数&color=0078d4&style=flat)
+基于 **Qt** 开发的 `ImageProcLab` 正在持续更新中...  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=XiaoHuZi-design.XiaoHuZi-design&left_text=%20%20%20访客人数%20%20%20&color=0078d4)
 
 ---
 
