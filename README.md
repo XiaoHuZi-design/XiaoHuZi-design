@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 ---
 
 ### 🛠️ 技术栈
-- **语言:** C++, Python, HTML, Matlab, JavaScript
-- **框架:** Qt, ROS, OpenCV, YOLO
-- **工具:** Git, CMake, PowerShell
+- **语言:** C++, Python, HTML, Matlab, JavaScript &nbsp;&nbsp; <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="20"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="20"> <img src="https://img.shields.io/badge/Matlab-ED8B00?style=flat-square&logo=mathworks&logoColor=white" height="20"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20">
+- **框架:** Qt, ROS, OpenCV, YOLO &nbsp;&nbsp; <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" height="20"> <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" height="20"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" height="20"> <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" height="20">
+- **工具:** Git, CMake, PowerShell &nbsp;&nbsp; <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="20"> <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" height="20"> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" height="20">
 
 ---
 
