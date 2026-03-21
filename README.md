@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 你好，我是 XiaoHuZi-design 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0078D4&width=600&lines=%E1%91%A2+%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+XiaoHuZi-design" alt="Typing SVG" />
+# 👋 <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0078D4&width=550&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF+XiaoHuZi-design" alt="Typing SVG" />
 ### 🤖 正在研究：机器人技术 / 视觉 SLAM / 路径规划 / 深度学习 / 图像处理
 基于 **Qt** 开发的 `ImageProcLab` 正在持续更新中...    ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=XiaoHuZi-design.XiaoHuZi-design&left_text=%20%20%20访客人数%20%20%20&color=0078d4)
 
