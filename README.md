@@ -1,4 +1,4 @@
-<!--
+
 <h1 align="center">👋 你好，我是 XiaoHuZi-design</h1>
 
 <p align="center">
@@ -42,12 +42,19 @@
 ---
 
 ### 📊 统计数据
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=XiaoHuZi-design&show_icons=true&theme=radical&hides_format=true" alt="Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoHuZi-design&layout=compact&theme=radical" alt="TopLangs">
 </p>
 -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=XiaoHuZi-design&label=访客人数&color=0078d4&style=flat" alt="Visitors">
+  <br><br>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=XiaoHuZi-design&show_icons=true&theme=radical" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoHuZi-design&layout=compact&theme=radical" />
+</p>
+
 
 
 
