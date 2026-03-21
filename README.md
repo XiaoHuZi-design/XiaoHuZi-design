@@ -48,6 +48,34 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoHuZi-design&layout=compact&theme=radical" alt="TopLangs">
 </p>
 
+
+
+# 👋 你好，我是 XiaoHuZi-design
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=XiaoHuZi-design.XiaoHuZi-design" alt="Visitors" align="right">
+
+> 🤖 **正在研究**：机器人技术 / 视觉 SLAM / 路径规划。基于 **Qt** 开发的 `ImageProcLab` 正在更新。
+
+---
+
+| 🛠️ 我的技术栈 | 🚀 精选项目 |
+| :--- | :--- |
+| **语言:** C++, Python, HTML, Matlab, JS | 📺 [ImageProcLab](https://github.com/XiaoHuZi-design/ImageProcLab) (图像/视频处理) |
+| **框架:** Qt, ROS, OpenCV, YOLO | 🎯 [YOLODetector](https://github.com/XiaoHuZi-design/YOLODetector) (检测工具) |
+| **工具:** Git, CMake, PowerShell | 🌸 [HTBLOG](https://github.com/XiaoHuZi-design/HTBLOG) (浪漫风个人站) |
+| | 🎨 [claude-themes](https://github.com/XiaoHuZi-design/claude-status-themes) (Claude 主题) |
+
+---
+
+### 📊 我的 GitHub 统计
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=XiaoHuZi-design&show_icons=true&theme=radical" alt="Stats" hspace="10">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoHuZi-design&layout=compact&theme=radical" alt="TopLangs" hspace="10">
+</p>
+
+
+
 # 👋 你好，我是 XiaoHuZi-design 
 
 ### 🤖 正在研究：机器人技术 / 视觉 SLAM / 路径规划 / 深度学习 / 图像处理
