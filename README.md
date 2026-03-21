@@ -7,7 +7,7 @@
 
 <p align="center">
   🤖 <b>正在研究：机器人技术 / 视觉 SLAM / 路径规划 / 深度学习 / 图像处理 </b><br>
-  基于 <b>Qt</b> 开发的 <code>ImageProcLab</code> 正在持续更新中...
+  基于 <b>Qt</b> 开发的 <code>ImageProcLab</code> 正在持续更新中...  <img src="https://komarev.com/ghpvc/?username=XiaoHuZi-design&left_text=%20%20%20访客人数%20%20%20&color=0078d4" alt="Visitors">
 </p>
 
 ---
@@ -42,18 +42,11 @@
 ---
 
 ### 📊 统计数据
-<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=XiaoHuZi-design&show_icons=true&theme=radical&hides_format=true" alt="Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoHuZi-design&layout=compact&theme=radical" alt="TopLangs">
 </p>
--->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=XiaoHuZi-design&label=访客人数&color=0078d4&style=flat" alt="Visitors">
-  <br><br>
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=XiaoHuZi-design&show_icons=true&theme=radical" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoHuZi-design&layout=compact&theme=radical" />
-</p>
+
 
 
 
