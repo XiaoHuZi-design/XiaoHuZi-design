@@ -1,4 +1,3 @@
-## Hi there 👋
 # 👋 你好，我是 XiaoHuZi-design 
 
 ### 🤖 正在研究：机器人技术 / 视觉 SLAM / 路径规划
