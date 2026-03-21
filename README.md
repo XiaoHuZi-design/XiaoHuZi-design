@@ -55,6 +55,13 @@ Here are some ideas to get you started:
 ### 🐍 贡献贪吃蛇 (GitHub Snake)
 ![snake game](https://github.com/XiaoHuZi-design/XiaoHuZi-design/raw/output/github-contribution-grid-snake.svg)
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/XiaoHuZi-design/XiaoHuZi-design/raw/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/XiaoHuZi-design/XiaoHuZi-design/raw/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/XiaoHuZi-design/XiaoHuZi-design/raw/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 <!--
 
