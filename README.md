@@ -12,12 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![snake game](https://github.com/XiaoHuZi-design/XiaoHuZi-design/blob/output/github-contribution-grid-snake.svg)
-# 👋 你好，我是 XiaoHuZi-design 
+
+# 👋 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0078D4&width=435&lines=你好，我是 XiaoHuZi-design )](https://git.io/typing-svg)
 
 ### 🤖 正在研究：机器人技术 / 视觉 SLAM / 路径规划 / 深度学习 / 图像处理
 基于 **Qt** 开发的 `ImageProcLab` 正在持续更新中...    ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=XiaoHuZi-design.XiaoHuZi-design&left_text=%20%20%20访客人数%20%20%20&color=0078d4)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0078D4&width=435&lines=正在研究：机器人技术;专注于视觉+SLAM+算法;ImageProcLab+持续更新中...)](https://git.io/typing-svg)
+
 ---
 
 <!--
