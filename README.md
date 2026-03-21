@@ -1,3 +1,4 @@
+<!--
 <h1 align="center">👋 你好，我是 XiaoHuZi-design</h1>
 
 <p align="center">
@@ -46,10 +47,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=XiaoHuZi-design&show_icons=true&theme=radical&hides_format=true" alt="Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoHuZi-design&layout=compact&theme=radical" alt="TopLangs">
 </p>
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=XiaoHuZi-design.XiaoHuZi-design&left_text=访客人数&color=0078d4)
+-->
 
 
-<!--
+
 # 👋 你好，我是 XiaoHuZi-design 
 
 ### 🤖 正在研究：机器人技术 / 视觉 SLAM / 路径规划 / 深度学习 / 图像处理
@@ -76,7 +77,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoHuZi-design&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoHuZi-design&layout=compact&theme=radical)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=XiaoHuZi-design.XiaoHuZi-design&left_text=访客人数&color=0078d4)
--->
+
 
 <!--
 **XiaoHuZi-design/XiaoHuZi-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
