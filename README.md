@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 - 🎨[claude-status-themes](https://github.com/XiaoHuZi-design/claude-status-themes) - Claude Code 定制可选的状态栏主题：仙侠古风 + 极客仪表盘 + 像素游戏
 - 🖥️[ImageProcLab](https://github.com/XiaoHuZi-design/ImageProcLab) - 适合教学使用的图像与视频处理实验室
 - 🔍[YOLODetector](https://github.com/XiaoHuZi-design/YOLODetector) - Yolov5 / Yolov8 图像、视频、摄像头检测工具
+- [paper-arena](https://github.com/XiaoHuZi-design/paper-arena-demo) - 学术论文拟人化 - 把论文变成"角色"，让科研变得有趣
 
 ---
 
