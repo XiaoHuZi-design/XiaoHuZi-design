@@ -47,6 +47,8 @@ Here are some ideas to get you started:
 - 🖥️[ImageProcLab](https://github.com/XiaoHuZi-design/ImageProcLab) - 适合教学使用的图像与视频处理实验室
 - 🔍[YOLODetector](https://github.com/XiaoHuZi-design/YOLODetector) - Yolov5 / Yolov8 图像、视频、摄像头检测工具
 - 📑[paper-arena](https://github.com/XiaoHuZi-design/paper-arena-demo) - 学术论文拟人化 - 把论文变成"角色"，让科研变得有趣
+- ⚡[tab-out](https://github.com/XiaoHuZi-design/tab-out) - 一款具备域名分组、搜索栏、深色模式、主题与书签栏的 Chrome 新标签页扩展
+
 
 ---
 
