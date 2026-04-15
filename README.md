@@ -53,8 +53,8 @@ Here are some ideas to get you started:
 ---
 
 ### 📊 我的 GitHub 统计
-![Your GitHub stats](https://stats.justsong.cn/api/github?username=XiaoHuZi-design&show_icons=true&theme=radical)
-![Top Langs](https://stats.justsong.cn/api/top-langs/?username=XiaoHuZi-design&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoHuZi-design&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoHuZi-design&hide_border=true&layout=donut&theme=radical)
 
 ### 🐍 贡献贪吃蛇 (GitHub Snake)
 ![snake game](https://github.com/XiaoHuZi-design/XiaoHuZi-design/raw/output/github-contribution-grid-snake.svg)
