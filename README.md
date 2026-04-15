@@ -52,8 +52,8 @@ Here are some ideas to get you started:
 
 ---
 
-### 📊 我的 GitHub 统计 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoHuZi-design&show_icons=true&theme=radical)
+### 📊 我的 GitHub 统计
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoHuZi-design&show_icons=true&theme=radical&cache_override=86400)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoHuZi-design&layout=compact&theme=radical)
 
 ### 🐍 贡献贪吃蛇 (GitHub Snake)
