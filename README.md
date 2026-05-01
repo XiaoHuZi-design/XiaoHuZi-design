@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🚀 我的精选项目
+- 😄[project-atlas](https://github.com/XiaoHuZi-design/project-atlas) - 仓库全部个人项目汇总
 - 🌸[HTBLOG](https://github.com/XiaoHuZi-design/HTBLOG) - 二次元浪漫风格个人小网站
 - 📚[web-HT_Libra](https://github.com/XiaoHuZi-design/web-HT_Libra) - 个人博客小站旧版本
 - 🎨[claude-status-themes](https://github.com/XiaoHuZi-design/claude-status-themes) - Claude Code 定制可选的状态栏主题：仙侠古风 + 极客仪表盘 + 像素游戏
@@ -49,7 +50,6 @@ Here are some ideas to get you started:
 - ⚙️[IndustryVisionKit](https://github.com/XiaoHuZi-design/IndustryVisionKit) - 工业视觉检测桌面应用，支持 YOLOv5/v8/v11/v26 多版本目标检测
 - 📑[paper-arena](https://github.com/XiaoHuZi-design/paper-arena-demo) - 学术论文拟人化 - 把论文变成"角色"，让科研变得有趣
 - ⚡[tab-out](https://github.com/XiaoHuZi-design/tab-out) - 一款具备域名分组、搜索栏、深色模式、主题与书签栏的 Chrome 新标签页扩展
-
 
 ---
 
