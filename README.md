@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 - ⚙️[IndustryVisionKit](https://github.com/XiaoHuZi-design/IndustryVisionKit) - 工业视觉检测桌面应用，支持 YOLOv5/v8/v11/v26 多版本目标检测（QT6）
 - 📑[paper-arena](https://github.com/XiaoHuZi-design/paper-arena-demo) - 学术论文拟人化 - 把论文变成"角色"，让科研变得有趣
 - ⚡[tab-out](https://github.com/XiaoHuZi-design/tab-out) - 一款具备域名分组、搜索栏、深色模式、主题与书签栏的 Chrome 新标签页扩展
+- 🤖[feiq-studio](https://github.com/XiaoHuZi-design/feiq-studio) - 个人 AI 工作平台：多厂商 AI 助手 + 局域网协作 + 研发管理（单文件）
+
 
 ---
 
